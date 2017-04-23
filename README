@@ -1,5 +1,6 @@
 実行ファイルを含みます。Syphonのマルチサーバをミックスして再度パブリッシュできるアプリです。
  .app file include. This makes you to republish mixed multi syphon server.
+ Openframeworks v0.9.4
 
 includes MIT Liscenced code
 
